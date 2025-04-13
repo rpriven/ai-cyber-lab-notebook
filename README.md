@@ -12,6 +12,7 @@ I’m currently working through hands-on labs, certifications, and personal proj
 ## Table of Contents
 
 ### AI / ML Security
+- [AI Attack Techniques](./posts/ai-001-ai-attack-techniques.md)
 - [Prompt Injection Basics](./posts/ai-001-prompt-injection-basics.md)
 - [Model Extraction Techniques](./posts/ai-002-model-extraction.md)
 
