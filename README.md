@@ -1,5 +1,6 @@
 # AI x Cybersecurity Lab Notebook
 
+![Platform](https://img.shields.io/badge/Platform-Linux-green.svg)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 Welcome! This repo is my personal learning journal, lab notebook, and idea dump as I explore offensive AI security, red teaming LLMs, and practical pentesting.
